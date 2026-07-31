@@ -76,7 +76,7 @@ Market research, competitive benchmarking, customer analysis, and GTM strategy a
 
 ## 📫 Connect
 
-* 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/priyanshusrivas/)
+* 💼 LinkedIn: [https://linkedin.com/in/priyanshusrivas/](https://www.linkedin.com/in/priyanshusrivas/)
 * 📧 Email: [priyanshusrivastava1729@gmail.com](mailto:priyanshusrivastava1729@gmail.com)
 
 ---

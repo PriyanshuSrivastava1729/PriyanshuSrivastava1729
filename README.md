@@ -19,7 +19,7 @@ I enjoy combining **structured problem-solving, user research, SQL, Python, Exce
 ### 📊 [Customer Value Analytics & Retention Strategy](https://github.com/PriyanshuSrivastava1729/Customer-Value-Analytics-A-Data-Driven-Retention-Strategy)
 Designed a SQL-driven customer segmentation framework for a D2C fashion brand by developing commercial and behavioral loyalty indices to optimize customer retention, promotional strategy, and long-term customer value.
 
-**Tech Stack:** SQL • Python • Power BI
+**Tech Stack:** SQL • Python • Power BI • Excel
 
 ---
 

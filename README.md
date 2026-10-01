@@ -2,7 +2,7 @@
 
 ### Management Consulting  • Prooduct • Data Analytics • Strategy
 
-> **Building products, solving business problems, and transforming data into actionable decisions.**
+> **Solving business problems, building products and transforming data into actionable decisions.**
 
 ---
 

@@ -1,6 +1,6 @@
 # Hi, I'm Priyanshu Srivastava 👋
 
-### Product Management • Consulting • Data Analytics • Strategy
+### Management Consulting  • Prooduct • Data Analytics • Strategy
 
 > **Building products, solving business problems, and transforming data into actionable decisions.**
 
@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an Electronics & Communication Engineering undergraduate at **Birla Institute of Technology (BIT) Mesra** with a strong interest in **Product Management, Consulting, and Data Analytics**.
+I'm an Electronics & Communication Engineering undergraduate at **Birla Institute of Technology (BIT) Mesra** with a strong interest in **Management Consulting, Product and Data Analytics**.
 
 I enjoy combining **structured problem-solving, user research, SQL, Python, Excel, and Power BI** to uncover insights, design impactful products, and support strategic business decisions. Whether it's building analytics dashboards or evaluating digital products, I aim to bridge business strategy with technology.
 
@@ -19,7 +19,19 @@ I enjoy combining **structured problem-solving, user research, SQL, Python, Exce
 ### 📊 [Customer Value Analytics & Retention Strategy](https://github.com/PriyanshuSrivastava1729/Customer-Value-Analytics-A-Data-Driven-Retention-Strategy)
 Designed a SQL-driven customer segmentation framework for a D2C fashion brand by developing commercial and behavioral loyalty indices to optimize customer retention, promotional strategy, and long-term customer value.
 
-**Tech Stack:** SQL • Python • Power BI • Excel
+**Tech Stack:**  Python • SQL • Power BI • Excel
+
+---
+### 📊 [State of AI Jobs & Hiring Market: SQL-Driven Market & Salary Analysis](https://github.com/PriyanshuSrivastava1729/State-of-AI-Jobs-Hiring-SQL-Driven-Market-Salary-Analysis)
+An end-to-end analytics project examining the AI jobs and hiring market across roles, skills, salaries, geographies, industries, and company sizes. The project uses MySQL for data cleaning and business analysis and Power BI for interactive dashboards and decision-oriented insights.
+
+**Tech Stack:** SQL • Power BI • Excel
+
+---
+### [RetailPulse: SQL Based Inventory Optimization](https://github.com/PriyanshuSrivastava1729/RetailPulse-SQL-Based-Inventory-Optimization)
+This project analyzes retail inventory and demand data to identify inventory inefficiencies, stock-out risks, overstocking, inventory turnover, and demand-forecast performance. The project is built with MySQL for data analysis and business logic and Power BI for interactive visualization and decision-making.
+
+**Tech Stack:** SQL • Power BI • Excel
 
 ---
 

@@ -22,13 +22,13 @@ Designed a SQL-driven customer segmentation framework for a D2C fashion brand by
 **Tech Stack:**  Python • SQL • Power BI • Excel
 
 ---
-### 📊 [State of AI Jobs & Hiring Market: SQL-Driven Market & Salary Analysis](https://github.com/PriyanshuSrivastava1729/State-of-AI-Jobs-Hiring-SQL-Driven-Market-Salary-Analysis)
+### 👔 [State of AI Jobs & Hiring Market: SQL-Driven Market & Salary Analysis](https://github.com/PriyanshuSrivastava1729/State-of-AI-Jobs-Hiring-SQL-Driven-Market-Salary-Analysis)
 An end-to-end analytics project examining the AI jobs and hiring market across roles, skills, salaries, geographies, industries, and company sizes. The project uses MySQL for data cleaning and business analysis and Power BI for interactive dashboards and decision-oriented insights.
 
 **Tech Stack:** SQL • Power BI • Excel
 
 ---
-### [RetailPulse: SQL Based Inventory Optimization](https://github.com/PriyanshuSrivastava1729/RetailPulse-SQL-Based-Inventory-Optimization)
+### 📦 [RetailPulse: SQL Based Inventory Optimization](https://github.com/PriyanshuSrivastava1729/RetailPulse-SQL-Based-Inventory-Optimization)
 This project analyzes retail inventory and demand data to identify inventory inefficiencies, stock-out risks, overstocking, inventory turnover, and demand-forecast performance. The project is built with MySQL for data analysis and business logic and Power BI for interactive visualization and decision-making.
 
 **Tech Stack:** SQL • Power BI • Excel

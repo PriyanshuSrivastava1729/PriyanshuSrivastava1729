@@ -98,6 +98,7 @@ Performed a product teardown of Meesho by evaluating UX, customer journey, and c
 
 - Product Analytics
 - Growth Strategy
+- Machine Learning
 - Experimentation & A/B Testing
 - AI Applications in Product Management
 - Advanced SQL for Analytics
